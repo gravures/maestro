@@ -7,4 +7,5 @@ dependencies:
   - pip=24
   - pip:
       - pretty-errors
+      - standard-deluxe @ git+https://github.com/gravures/standard-deluxe@dev-features
 variables:
