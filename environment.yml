@@ -1,0 +1,10 @@
+name: maestro
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12
+  - pip=24
+  - pip:
+      - pretty-errors
+variables:

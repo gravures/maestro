@@ -1,0 +1,14 @@
+{
+    "pythonVersion": "3.12",
+    "stubPath": "./typings",
+    "ignore": [
+        "./typings"
+    ],
+    "pythonPlatform": "All",
+    "typeCheckingMode": "all",
+    "reportAny": false,
+    "reportUnusedVariable": false,
+    "reportUnusedCallResult": false,
+    "reportImplicitOverride": false,
+    "reportMissingSuperCall": false
+}
